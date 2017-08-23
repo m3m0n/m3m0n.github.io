@@ -1,17 +1,18 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: ShaunMemon.com
+description: Welcome to my personal website.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://shaunmemon.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Shaun Memon
+user_description: Computer Science specialist at the University of Toronto in my final year of study. I am interested in project management and working in dynamic environments to solve problems applicable to the real world. I am looking for an opportunity where I can work within a team that is passionate in making a measurable impact globally and always exploring ideas for improving the quality of living. Based on my academic background and experience, I would love to be involved in an organization that strives to produce innovative technologies and products for the betterment of business practices and personal livelihood.
+user_title: CS Student at UofT. Interested in product management, startups and entrepreneurship.
+email: hello@shaunmemon.com
+twitter_username: ShaunMemon
+github_username:  m3m0n
+gplus_username:  shaunmemon
+linkedin_username: shaunmemon
 
 # Google-analytics
 google-analytics:
