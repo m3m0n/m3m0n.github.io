@@ -130,7 +130,7 @@ body {
 
 .icons-header .icon:active,
 .icons-header .icon:hover {
-    color: #043564;
+    color: #032749;
     background: #fff
 }
 
@@ -218,7 +218,7 @@ body {
 }
 
 .user-projects li {
-    color: #043564;
+    color: #032749;
     font-size: 1.1rem
 }
 
