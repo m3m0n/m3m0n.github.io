@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded",function(){new SweetScroll({});part
       }
     },
     "color": {
-      "value": "#223145"
+      "value": "#17223b"
     },
     "shape": {
       "type": "polygon",
@@ -46,9 +46,9 @@ document.addEventListener("DOMContentLoaded",function(){new SweetScroll({});part
       }
     },
     "line_linked": {
-      "enable": false,
-      "distance": 500,
-      "color": "#ffffff",
+      "enable": true,
+      "distance": 200,
+      "color": "#696e95",
       "opacity": 0.4,
       "width": 2
     },
@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded",function(){new SweetScroll({});part
       "direction": "none",
       "random": true,
       "straight": false,
-      "out_mode": "bounce",
+      "out_mode": "out",
       "bounce": false,
       "attract": {
         "enable": false,
