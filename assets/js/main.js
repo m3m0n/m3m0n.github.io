@@ -1,23 +1,23 @@
 document.addEventListener("DOMContentLoaded",function(){new SweetScroll({});particlesJS("particles-js",{
   "particles": {
     "number": {
-      "value": 100,
+      "value": 30,
       "density": {
         "enable": true,
         "value_area": 1100
       }
     },
     "color": {
-      "value": "#8b8365"
+      "value": "#223145"
     },
     "shape": {
-      "type": "star",
+      "type": "polygon",
       "stroke": {
         "width": 1,
         "color": "#080d21"
       },
       "polygon": {
-        "nb_sides": 5
+        "nb_sides": 7
       },
       "image": {
         "src": "img/github.svg",
@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded",function(){new SweetScroll({});part
       }
     },
     "size": {
-      "value": 10,
+      "value": 110,
       "random": true,
       "anim": {
         "enable": true,
