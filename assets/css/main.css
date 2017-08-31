@@ -3,7 +3,7 @@ body {
     font-family: 'Fira Sans', sans-serif
 }
 
-@-webkit-keyframes pulse {
+/*@-webkit-keyframes pulse {
     0%,
     to {
         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
@@ -35,14 +35,14 @@ body {
         opacity: 1;
         top: -10px
     }
-}
+}*/
 
 #particles-js {
     background-image: url("/assets/img/eclipse-from-space.jpg"); 
     background-position: 50% 50%;
     background: #032749;
-    /*background: #043564;*/
     /*background: #0b274f;*/
+    /*background: #043564;*/
     display: block;
     vertical-align: bottom;
     width: 100vw;
@@ -250,14 +250,14 @@ body {
 
 .project-link:active,
 .project-link:hover {
-    background-color: #04516A;
-    border-color: #04516A;
+    background-color: #314f81;
+    border-color: #314f81;
     color: #fff;
     transition: color .3s ease-in, background-color .3s ease-in, border-color .3s ease-in
 }
 
 .footer {
-    background: #263240;
+    background: #19314d;
     
     padding: 10px 0;
     margin-top: 100px;
