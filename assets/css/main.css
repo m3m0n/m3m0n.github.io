@@ -40,7 +40,8 @@ body {
 #particles-js {
     background-image: url("/assets/img/eclipse-from-space.jpg"); 
     background-position: 50% 50%;
-    background: #032749;
+    /*background: #19314d;*/
+     background: #032749; 
     /*background: #0b274f;*/
     /*background: #043564;*/
     display: block;
@@ -257,12 +258,13 @@ body {
 }
 
 .footer {
-    background: #19314d;
-    
+    /*background: #19314d;*/
+    background: #032749;
+    /*background: #0b274f;*/
     padding: 10px 0;
     margin-top: 100px;
     text-align: center;
-    color: #fff
+    color: #eee
 }
 
 .footer .love {
