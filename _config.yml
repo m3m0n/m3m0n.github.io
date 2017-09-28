@@ -6,7 +6,9 @@ url: "http://shaunmemon.com" # the base hostname & protocol for your site e.g. h
 
 # User settings
 username: Shaun Memon
-user_description: I am a recent graduate of University of Toronto specializing in Computer Science, looking for a career in software development. My strengths are in systems and low-level programming with experience in C/C++, Java, Python, JavaScript, Assembly, Scheme (Racket), and even VisualBasic. I consider myself to be a life long learner and enjoy gaining new skills to solve meaningful problems. My goal is to contribute in improving the quality of peoples lives by solving the problems that matter. The principles and technologies which I currently find especially salient are those revolving around preserving a free and open Internet, protecting privacy and liberty, helping people to better manage their lives and finances, blockchain and other distributed databases, embedded systems and low level technology and low level systems programming. 
+user_description: "I am a recent graduate of University of Toronto specializing in Computer Science, looking for a career in software development. My strengths are in systems and low-level programming with experience in C/C++, Java, Python, JavaScript, Assembly, Scheme (Racket), and even VisualBasic. 
+<br>
+I consider myself to be a life long learner and enjoy gaining new skills to solve meaningful problems. My goal is to contribute in improving the quality of peoples lives by solving the problems that matter. The principles and technologies which I currently find especially salient are those revolving around preserving a free and open Internet, protecting privacy and liberty, helping people to better manage their lives and finances, blockchain and other distributed databases, embedded systems and low level technology and low level systems programming. "
 user_title: UofT grad specializing in Computer Science.
 email: hello@shaunmemon.com
 twitter_username: ShaunMemon
