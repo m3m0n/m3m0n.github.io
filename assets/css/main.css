@@ -42,6 +42,7 @@ body {
   height: 200px;
   overflow: hidden;
   border-radius: 50%;
+  float:left;
 }
 
 .circular--portrait img {
