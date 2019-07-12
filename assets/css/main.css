@@ -48,7 +48,7 @@ body {
 .circular--portrait img {
   width: 100%;
   height: auto;
-  margin-left: 0px;
+  margin-left: -10px;
   margin-top: -25px
 }
 
