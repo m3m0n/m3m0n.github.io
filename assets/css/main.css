@@ -37,6 +37,7 @@ body {
     }
 }*/
 .circular--portrait {
+  display: inline-block;
   position: relative;
   width: 200px;
   height: 200px;
