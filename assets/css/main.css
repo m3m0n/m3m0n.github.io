@@ -36,6 +36,9 @@ body {
         top: -10px
     }
 }*/
+.circular--square {
+  border-radius: 50%;
+}
 
 #particles-js {
     background-image: url("/assets/img/eclipse-from-space.jpg"); 
