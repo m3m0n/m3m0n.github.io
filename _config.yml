@@ -31,6 +31,6 @@ linkedin_username: shaunmemon
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-143745381-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
