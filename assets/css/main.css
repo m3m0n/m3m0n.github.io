@@ -36,6 +36,10 @@ body {
         top: -10px
     }
 }*/
+
+.circular--square {
+  border-radius: 50%;
+}
 .circular--portrait {
   position: relative;
   width: 11em;
