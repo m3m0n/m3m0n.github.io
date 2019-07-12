@@ -38,8 +38,8 @@ body {
 }*/
 .circular--portrait {
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 11em;
+  height: 11em;
   overflow: hidden;
   border-radius: 50%;
   float:left;
