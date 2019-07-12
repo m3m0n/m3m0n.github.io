@@ -47,6 +47,7 @@ body {
 .circular--portrait img {
   width: 100%;
   height: auto;
+  margin-right: -50px;
 }
 
 #particles-js {
